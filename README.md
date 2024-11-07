@@ -1,0 +1,2 @@
+# python_merge_signed_pdf
+Pythonで、署名されたPDFフェイルを結合する
